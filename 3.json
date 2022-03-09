@@ -1,0 +1,39 @@
+{
+  "name": "HamsterPunks #3",
+  "description": "Crazy Hamsters CCO Licence",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "ec0c52b86d948caff35e7805066bae54ab401edd",
+  "edition": 3,
+  "date": 1646452370595,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "34"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Layer 45"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Layer 36"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yawn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Looking"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro brush"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
